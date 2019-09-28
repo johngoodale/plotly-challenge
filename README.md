@@ -41,7 +41,7 @@ Optional:
 Step 2 - Heroku
  - Deploy the Flask App to Heroku
  - Use the provided SQLite file for the database
- - Heroku Deployment:
+ - Heroku Deployment: https://bb-diversity-jg.herokuapp.com/
 
 Step 3 - Flask API
  - Use Flask API code to serve the data needed for the plots
